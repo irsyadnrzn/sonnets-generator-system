@@ -7,6 +7,8 @@ This Project aims to create shakespeare style Sonnet Generator System using Bidi
 The model trained using txt file contains of 2158 lines of sonnets created by shakespeare. The dataset can be open [here](https://github.com/irsyadnrzn/sonnets-generator-system/blob/main/sonnets.txt#L2158)
 
 ## Model Architecture and Train
-The Neural Network model consists of 1 Embedding Layer, 1 LSTM Layer and 1 Output Layer using SoftMax Activation Function. Image bellow show the architecture of the neural network.<br> 
-<img src="https://github.com/irsyadnrzn/sonnets-generator-system/blob/main/model_architecture.png" width=50% height=50%> <br>
-The model trained using adam optimizer loss function on 50 Epochs and gained 84.9% accuracy. The saved h5 model can be accessed [here](https://github.com/irsyadnrzn/sonnets-generator-system/blob/main/poem_model.h5)
+The Neural Network model consists of 1 Embedding Layer, 1 LSTM Layer and 1 Output Layer using SoftMax Activation Function. 
+*Image bellow show the architecture of the neural network*<br> 
+<img src="https://github.com/irsyadnrzn/sonnets-generator-system/blob/main/model_architecture.png" width=10% height=10%> <br>
+
+The model trained on 50 Epochs using adam optimizer loss function  and gained 84.9% accuracy. The saved h5 model can be accessed [here](https://github.com/irsyadnrzn/sonnets-generator-system/blob/main/poem_model.h5)
