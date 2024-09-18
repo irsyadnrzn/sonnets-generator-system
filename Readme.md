@@ -41,10 +41,6 @@ The trained model has been saved as an h5 file and is available for download [he
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the script to generate a sonnet:
-    ```bash
-    python generate_sonnet.py
-    ```
 
 ## Future Work
 
